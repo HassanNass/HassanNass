@@ -1,8 +1,96 @@
-<h1 align="center">Hi 👋, I'm Hassan Nasrallah</h1>
-- 🌱 I’m currently learning **Python**
+# 👋 Hi, I'm Hassan
 
-- 📫 How to reach me **hassannass613@gmail.com**
+### 💻 Web Developer
 
+I'm a self-driven student passionate about programming and continuously improving my skills through practice and real projects. I focus on understanding concepts deeply and applying them by building applications from scratch.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+* 🎓 Student and self-learner
+* 💡 I learn by building and practicing consistently
+* 🌐 Currently focused on frontend development using HTML, CSS, and JavaScript
+* 📘 Currently following the freeCodeCamp curriculum to strengthen my frontend and problem-solving skills
+* 📚 Also learning and improving in C#, PHP, and Python
+
+---
+
+## 🛠️ Skills
+
+### 🔥 Strong Skills
+
+* HTML
+* CSS
+* JavaScript
+* C
+* Python
+* SQL
+
+### ⚙️ Familiar With
+
+* Java
+* C#
+* Dart & Flutter
+* Angular (basic experience)
+
+### 🧰 Tools & Technologies
+
+* VS Code
+* Visual Studio Community
+* Apache NetBeans
+* IntelliJ IDEA
+* SQL Server & Microsoft Access
+* Linux Shell
+
+### 🧠 Concepts
+
+* Object-Oriented Programming (OOP)
+* Problem Solving
+
+---
+
+## 📂 Projects
+
+### 🔥 Featured Projects
+
+#### 🟢 [Project Name Here]
+
+* Short description (what it does)
+* Built with: HTML, CSS, JavaScript
+* What you learned: (e.g., DOM manipulation, responsive design)
+* 🔗 Live Demo (if available)
+* 🔗 Repository
+
+---
+
+### 🧩 Frontend Mentor Projects
+
+A collection of projects built while solving challenges from Frontend Mentor, focusing on improving layout, responsiveness, and UI implementation.
+
+* 📌 Project 1 – Short description
+* 📌 Project 2 – Short description
+* 📌 Project 3 – Short description
+
+🔗 View all projects: (your link here)
+
+---
+
+### ⚙️ Practice Projects
+
+Small projects built to practice specific concepts and improve problem-solving skills.
+
+* 📌 Random Quote Generator
+* 📌 (Add more here)
+
+---
+
+## 🎯 Current Goals
+
+* 📘 Learning C# and PHP
+* 🧠 Improving problem-solving skills
+* 💻 Building more frontend projects and strengthening fundamentals
+
+---
+
+⭐ *Always learning, always building.*
