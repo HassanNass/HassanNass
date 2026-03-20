@@ -80,8 +80,11 @@ A collection of projects built while solving challenges from Frontend Mentor, fo
 
 Small projects built to practice specific concepts and improve problem-solving skills.
 
-* 📌 Random Quote Generator
-* 📌 (Add more here)
+  🔹 Frontend
+  📌 Random Quote Generator
+      Generates random quotes with each click using JavaScript.
+      Built with: HTML, CSS, JavaScript
+  🔗 (https://github.com/HassanNass/JavaScript-Quote-Generator)
 
 ---
 
