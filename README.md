@@ -82,9 +82,16 @@ Small projects built to practice specific concepts and improve problem-solving s
 
   🔹 Frontend
   📌 Random Quote Generator
-      Generates random quotes with each click using JavaScript.
-      Built with: HTML, CSS, JavaScript
-  🔗 (https://github.com/HassanNass/JavaScript-Quote-Generator)
+      * Generates random quotes with each click using JavaScript.
+      * Built with: HTML, CSS, JavaScript
+  🔗 https://github.com/HassanNass/JavaScript-Quote-Generator
+
+  🔹Python
+📌 Task Manager (CLI)
+    * A command-line task manager that allows users to add tasks with duration and priority, process tasks using queue operations, and search/sort tasks efficiently.
+    * Built with: Python
+    * What I learned: Data structures (queues), sorting algorithms, binary search, and problem decomposition
+🔗 https://github.com/HassanNass/python-task-manager
 
 ---
 
