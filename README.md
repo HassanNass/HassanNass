@@ -52,27 +52,11 @@ I'm a self-driven student passionate about programming and continuously improvin
 
 ## 📂 Projects
 
-### 🔥 Featured Projects
-
-#### 🟢 [Project Name Here]
-
-* Short description (what it does)
-* Built with: HTML, CSS, JavaScript
-* What you learned: (e.g., DOM manipulation, responsive design)
-* 🔗 Live Demo (if available)
-* 🔗 Repository
-
----
-
 ### 🧩 Frontend Mentor Projects
 
 A collection of projects built while solving challenges from Frontend Mentor, focusing on improving layout, responsiveness, and UI implementation.
 
-* 📌 Project 1 – Short description
-* 📌 Project 2 – Short description
-* 📌 Project 3 – Short description
-
-🔗 View all projects: (your link here)
+🔗 View all projects: (https://www.frontendmentor.io/profile/HassanNass)
 
 ---
 
@@ -81,17 +65,19 @@ A collection of projects built while solving challenges from Frontend Mentor, fo
 Small projects built to practice specific concepts and improve problem-solving skills.
 
   🔹 Frontend
-  📌 Random Quote Generator
-      * Generates random quotes with each click using JavaScript.
-      * Built with: HTML, CSS, JavaScript
-  🔗 https://github.com/HassanNass/JavaScript-Quote-Generator
+  
+  📌 Random Quote Generator  
+   Generates random quotes with each click using JavaScript.  
+   Built with: HTML, CSS, JavaScript  
+  🔗 https://github.com/HassanNass/JavaScript-Quote-Generator  
 
   🔹Python
+  
 📌 Task Manager (CLI)
-    * A command-line task manager that allows users to add tasks with duration and priority, process tasks using queue operations, and search/sort tasks efficiently.
-    * Built with: Python
-    * What I learned: Data structures (queues), sorting algorithms, binary search, and problem decomposition
-🔗 https://github.com/HassanNass/python-task-manager
+  A command-line task manager that allows users to add tasks with duration and priority, process tasks using queue operations, and search/sort tasks efficiently.  
+  Built with: Python  
+  What I learned: Data structures (queues), sorting algorithms, binary search, and problem decomposition  
+🔗 https://github.com/HassanNass/python-task-manager  
 
 ---
 
