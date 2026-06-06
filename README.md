@@ -37,10 +37,10 @@ I'm passionate about frontend development and writing clean, purposeful code. My
 
 ## 📌 Featured Projects
 
-### 🏋️ [Gym Management System](https://github.com/HassanNass/GymManagement_Project)
+### 🏋️ [Gym Management System](https://github.com/HassanNass/Gym-Management-System)
 C# / .NET Windows Forms desktop application with SQL Server backend. Features role-based login (Admin/Staff), full CRUD for members, plans, and users, and a live dashboard showing total, active, and expiring memberships.
 
-### 📋 [Python Task Manager](https://github.com/HassanNass/Python-task-manager)
+### 📋 [Python Task Manager](https://github.com/HassanNass/python-task-manager)
 CLI task manager implementing a priority queue from scratch — includes binary search and selection sort built manually without using built-in libraries.
 
 ### ⚛️ [React Projects](https://github.com/HassanNass)
