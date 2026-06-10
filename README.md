@@ -29,6 +29,13 @@ I'm passionate about frontend development and writing clean, purposeful code. My
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
+**Basic**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -37,11 +44,14 @@ I'm passionate about frontend development and writing clean, purposeful code. My
 
 ## 📌 Featured Projects
 
-### 🏋️ [Gym Management System](https://github.com/HassanNass/Gym-Management-System)
+### 🏋️ [Gym Management System](https://github.com/HassanNass/GymManagement_Project)
 C# / .NET Windows Forms desktop application with SQL Server backend. Features role-based login (Admin/Staff), full CRUD for members, plans, and users, and a live dashboard showing total, active, and expiring memberships.
 
-### 📋 [Python Task Manager](https://github.com/HassanNass/python-task-manager)
-CLI task manager implementing a priority queue from scratch — includes binary search and selection sort built manually without using built-in libraries.
+### 🔵 [42 Beirut — Piscine C Exercises](https://github.com/HassanNass/42-Beirut-Piscine-C)
+Collection of C programming exercises organized across 8 categories — algorithms, memory management, string functions, system calls, and function pointers. Highlights include a backtracking solution to the Ten Queens Puzzle, Unix command rebuilds (cat, tail, hexdump) using only system calls, and higher-order functions implemented with function pointer arrays.
+
+### 🐍 [Python Projects](https://github.com/HassanNass)
+A growing collection of Python CLI projects built while learning — covering data structures, algorithms, and real-world simulations. All projects are structured with clean function separation, input validation, and meaningful comments.
 
 ### ⚛️ [React Projects](https://github.com/HassanNass)
 Actively building and publishing React projects as part of my self-study journey. More coming regularly.
